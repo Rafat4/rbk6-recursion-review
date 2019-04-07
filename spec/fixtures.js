@@ -5,7 +5,7 @@ var validStrings, invalidStrings, // used for stringifyJSON and parseJSON specs
 
 var stringifiableObjects = [
   9,
-  null,
+   null,
   true,
   false,
   'Hello world',
